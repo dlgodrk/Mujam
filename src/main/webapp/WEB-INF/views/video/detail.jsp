@@ -13,6 +13,7 @@ Broadcast by TEMPLATED
 templated.co @templatedco
 Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
+<!--test-->
 <html lang="ko">
 <head>
     <title>Generic - Broadcast by TEMPLATED</title>
