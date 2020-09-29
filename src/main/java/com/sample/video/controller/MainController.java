@@ -40,5 +40,5 @@ public class MainController {
     public String single(Model model){
         return "main/single";
     }
-
+    //test
 }
